@@ -1,0 +1,13 @@
+
+git init Coursera_Capstone
+
+cd Coursera_Capstone
+
+git add NotebookOfCapstoneCourse9Week1.ipynb
+
+git commit -m "adding notebook to repo"
+
+git remote add origin https://github.com/github2019ct/Coursera_Capstone.git
+
+git push origin master
+
